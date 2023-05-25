@@ -3,6 +3,10 @@
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
+.flex-container {
+  display:flex;
+}
+
 h1 {
   background-color: #1f2937;
   font-size: 48px;
